@@ -1,0 +1,49 @@
+body{
+	background-image: url(Background.jpg)
+}
+table {
+    border: 10px solid lightyellow;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: "Century Gothic", sans-serif;
+}
+
+td{
+    border-left:solid gray 3px;
+    border-top:solid gray 3px;
+    border-bottom:solid gray 3px;
+    border-right:solid gray 3px;
+    border-radius:5px
+}
+
+.heading{
+	margin-right: auto;
+	font-family: "Lucida Console", monospace; 
+	color: white;
+	margin-left: auto; 
+	font-size: 50px;
+	border-radius: 25px;
+  background: #442A1D;
+  width: 500px;
+  height: 65px;
+  text-align: center;
+  margin-top: 1px;
+  padding: 50px 0 50px
+}
+
+.table-style{
+  margin-left: auto;
+  margin-right: auto;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+div{
+border: 3px solid black;
+width: auto;
+height: auto;
+background-color: rgba(255, 255, 255, 0.8);
+border-radius: 10px;
+padding: 5px;
+font-size: 18px;
+font-family: Candara, sans-serif
+}  
